@@ -1,0 +1,1 @@
+c:\Users\buldb\OneDrive\Desktop\projects\leet-code-rust\longest_non_repeating_substring\target\debug\longest_non_repeating_substring.exe: c:\Users\buldb\OneDrive\Desktop\projects\leet-code-rust\longest_non_repeating_substring\src\main.rs
